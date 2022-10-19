@@ -1,0 +1,37 @@
+_repo: Uber-die-Entstehung-der-Arten-im-Thier-und-Pflanzen-Reich-durch-naturliche-Zuchtung_69172
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bronn, Heinrich Georg
+    gutenberg_agent_id: '55142'
+    url: http://www.gutenberg.org/2009/agents/55142
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2022-10-17'
+identifiers:
+  gutenberg: '69172'
+language: de
+pgterms:marc904: https://archive.org/details/b21781126
+pgterms:marc905: 20180520020631darwin
+pgterms:marc906: '1863'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive.)
+publication_note: 'Germany: Schweizerbart''sche Verlagshandlung,1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Über die Entstehung der Arten im Thier- und Pflanzen-Reich durch natürliche
+  Züchtung
+url: http://www.gutenberg.org/ebooks/69172
